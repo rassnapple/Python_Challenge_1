@@ -1,2 +1,2 @@
-# Python_Challenge_1
+# python-challenge-1
 Second homework assignment
